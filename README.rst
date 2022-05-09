@@ -10,7 +10,7 @@ For ease of setup we use the environment handling of conda and package resolving
 
 **All of this will most likely only work on macos**
 
-:: code-block:: bash
+.. code-block:: bash
     cd path/to/folder
     conda env create -f ./environment.yml
     conda activate metfut
